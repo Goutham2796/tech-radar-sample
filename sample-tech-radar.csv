@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
 C,Adopt,Techniques,FALSE,C by Dennis Ritchie
-Apache Kafka,Trial,Techniques,FALSE,Apache
-Client Directed query,Assess,Techniques,FALSE,Client query
-Rust,Hold,Techniques,TRUE,Rust language
+Apache Kafka,Trial,Tools,FALSE,Apache
+Client Directed query,Assess,Platforms,FALSE,Client query
+Rust,Hold,languages-and-frameworks,TRUE,Rust language
